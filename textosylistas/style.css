@@ -7,4 +7,6 @@ span.negrita{
 } 
 span.pequenia{
     font-size: smaller;
-}
+} 
+ul{list-style-type: lower-roman;} 
+ol{list-style-image:url("img/lista.png")}
